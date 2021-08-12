@@ -45,9 +45,3 @@ else
         Y=U{ct+1}    ;
     end
 end
-    
-    
-        
-
-   
-
