@@ -33,5 +33,4 @@ for i=1:length(ZT)
     OUT=DATA_SET_GEN(MA,ft);
     SEM=[OUT,SEM];
 end
-Tm=toc;
-
+Tm=toc;     
