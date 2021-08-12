@@ -1,0 +1,2 @@
+# NM_Isomorphism-and-NM_Automorphism
+In this paper, we study the graph isomorphism and graph automorphism problems. We propose a novel technique to analyze graph isomorphism and graph automorphism. Further we handled some strongly regular datasets for prove the efficiency of our technique.  . In this article we introduce a structural descriptor given by a sequence and clique sequence for any undirected unweighted simple graphs with help of the sequences of matrices NM^{l}
