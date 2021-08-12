@@ -69,8 +69,3 @@ if size(OUT{ct-1,4},1)~=0
     OUT{ct-1,4}=[];
 end
 return
-
-
-    
-    
-    
