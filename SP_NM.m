@@ -30,8 +30,4 @@ while(1)
         l=l+1;
     end               
 end  
-
- 
-
-  
-    
+   
