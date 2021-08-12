@@ -318,4 +318,3 @@ save PrimesDataBase PrimesDataBase
 end
 
 %}
-
