@@ -15,4 +15,3 @@ A=zeros(n);
 A(elist)=1;
 A=A+A';
 return
-
