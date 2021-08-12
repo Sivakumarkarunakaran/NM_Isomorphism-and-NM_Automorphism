@@ -33,7 +33,3 @@ for i=1:max(Tb)
     A_G{i}=AMor;
     clear AMor
 end
-
-    
-    
-    
