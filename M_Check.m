@@ -9,6 +9,4 @@ for i=1:h
     if nnz(FG(i,:))>0
         R=R+(FG(i,:)/Irr(i));
     end
-end
-
-    
+end 
